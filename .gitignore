@@ -1,1 +1,6 @@
+#Data folders
+data/
+steps_data/
 
+#Others
+.ipynb_checkpoints
